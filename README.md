@@ -19,13 +19,13 @@ I help organizations make smarter, data-driven decisions.
 ### 📈 Data Analysis & Statistics
 ![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Working-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-working-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SPSS](https://img.shields.io/badge/IBM%20SPSS-Statistical%20Analysis-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### 📊 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Powerbi-working%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker-working%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🧰 Tools & Libraries
@@ -45,8 +45,7 @@ I help organizations make smarter, data-driven decisions.
 | 🐧 [Palmer Penguins — Full Analysis](https://github.com/YasirQurashi/10_days_scientific_visualization_mastery/tree/main/penguin_analysis) | R, tidyverse, ggplot2 | Complete 11-step data analysis workflow from raw data to insights |
 | 📉 [R for Statistical Analysis](https://github.com/YasirQurashi/r_for_statistical_analysis) | R, rstatix | Hypothesis testing, regression & descriptive statistics |
 | 📊 [10 Days Scientific Visualization](https://github.com/YasirQurashi/10_days_scientific_visualization_mastery) | R, ggplot2 | Mastering publication-ready scientific charts |
-| [world-layoffs-sql-analysis](https://github.com/YasirQurashi/world-layoffs-sql-analysis) | EDA, SQL, Data Cleaning 
-| Data Cleaning & EDA on World Layoffs 2020-2023 using MySQL |
+| [world-layoffs-sql-analysis](https://github.com/YasirQurashi/world-layoffs-sql-analysis) | EDA, SQL, Data Cleaning | Data Cleaning & EDA on World Layoffs 2020-2023 using MySQL |
 ---
 
 ## 📊 GitHub Stats
