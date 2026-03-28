@@ -23,9 +23,9 @@ I help organizations make smarter, data-driven decisions.
 ![SPSS](https://img.shields.io/badge/IBM%20SPSS-Statistical%20Analysis-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 ### 📊 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Powerbi-working%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Powerbi-working%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker-working%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/LookerStudio-working%20-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### 🧰 Tools & Libraries
