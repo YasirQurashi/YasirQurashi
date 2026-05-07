@@ -8,7 +8,7 @@ I help organizations make smarter, data-driven decisions.
 
 - 🎯 Currently applying analytical skills to **real-world business problems**
 - 📜 **Google Data Analytics Professional Certificate** — Certified
-- 🏫 BS Biotechnology @ BZU Multan (CGPA: 3.76) — Expected 2026
+- 🏫 BS @ BZU Multan (CGPA: 3.76) — Expected June 2026
 - 🧑‍🏫 Trained **500+ researchers & MPhil/PhD scholars** in Microsoft Excel, R, and SPSS
 - 🌍 Based in Multan, Pakistan | Open to Opportunities
 
