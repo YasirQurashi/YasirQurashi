@@ -8,8 +8,8 @@ I help organizations make smarter, data-driven decisions.
 
 - 🎯 Currently applying analytical skills to **real-world business problems**
 - 📜 **Google Data Analytics Professional Certificate** — Certified
-- 🏫 BS @ BZU Multan (CGPA: 3.76) — Expected June 2026
-- 🧑‍🏫 Trained **500+ researchers & MPhil/PhD scholars** in Microsoft Excel, R, and SPSS
+- 🏫 BS @ BZU Multan (CGPA: 3.76) — May 2026
+- 🧑‍🏫 Trained **1000+ researchers & MPhil/PhD scholars** in Microsoft Excel, R, and SPSS
 - 🌍 Based in Multan, Pakistan | Open to Opportunities
 
 ---
@@ -41,18 +41,18 @@ I help organizations make smarter, data-driven decisions.
 
 | Project | Tools | Description |
 |--------|-------|-------------|
-| 📱 [Mobile Store Sales Dashboard](https://github.com/YasirQurashi/mobile-store-sales-dashboard) | Excel, Pivot Tables | Interactive dashboard analyzing $28M sales across 4 cities |
+| 🏥 [Seven Months HealthCare Analytics Dashboard](https://github.com/YasirQurashi/seven-months-healthcare-analytics-dashboard) | Excel, Pivot Tables | Interactive dashboard analyzing 5,000 hospital visits across 5 departments |
+| 📱 [Store Sales Dashboard](https://github.com/YasirQurashi/Store-sales-dashboard) | Excel, Pivot Tables | Interactive dashboard analyzing $28M sales across 4 cities |
 | 🐧 [Palmer Penguins — Full Analysis](https://github.com/YasirQurashi/10_days_scientific_visualization_mastery/tree/main/penguin_analysis) | R, tidyverse, ggplot2 | Complete 11-step data analysis workflow from raw data to insights |
 | 📉 [R for Statistical Analysis](https://github.com/YasirQurashi/r_for_statistical_analysis) | R, rstatix | Hypothesis testing, regression & descriptive statistics |
 | 📊 [10 Days Scientific Visualization](https://github.com/YasirQurashi/10_days_scientific_visualization_mastery) | R, ggplot2 | Mastering publication-ready scientific charts |
 | [world-layoffs-sql-analysis](https://github.com/YasirQurashi/world-layoffs-sql-analysis) | EDA, SQL, Data Cleaning | Data Cleaning & EDA on World Layoffs 2020-2023 using MySQL |
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=YasirQurashi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YasirQurashi&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YasirQurashi&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=YasirQurashi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=YasirQurashi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YasirQurashi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
@@ -71,4 +71,5 @@ I help organizations make smarter, data-driven decisions.
 
 > *"Without data, you're just another person with an opinion." — W. Edwards Deming*
 
-[![](https://visitcount.itsvg.in/api?id=YasirQurashi&icon=9&color=7)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=YasirQurashi&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
