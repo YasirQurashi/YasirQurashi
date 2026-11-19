@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.svg" alt="Muhammad Yasir Qurashi, Healthcare Data Analyst at Buch International Hospital" width="100%"></p>
+<p align="center"><img src="banner.svg" alt="Muhammad Yasir Qurashi, Healthcare Data Analyst at Buch International Hospital" width="100%"></p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/muhammad-yasir-qurashi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -9,11 +9,11 @@
 
 I am a healthcare data analyst at **Buch International Hospital** (Research & Development, Multan). I design the analysis behind hospital research studies, from clean data to a result the clinician can report. I also teach R, SPSS and Excel to researchers through **BioSkillz**, and have trained **2,000+ learners**.
 
-<p align="center"><img src="assets/idcard.svg" alt="Staff card with key numbers" width="100%"></p>
+<p align="center"><img src="idcard.svg" alt="Staff card with key numbers" width="100%"></p>
 
 ### Tools I use
 
-<p align="center"><img src="assets/tools.svg" alt="R, SPSS, SQL, Excel, Power BI, Python fundamentals" width="100%"></p>
+<p align="center"><img src="tools.svg" alt="R, SPSS, SQL, Excel, Power BI, Python fundamentals" width="100%"></p>
 
 ### Case files
 
