@@ -1,75 +1,40 @@
-# Hi there, I'm Muhammad Yasir Qurashi 👋
+<p align="center"><img src="assets/banner.svg" alt="Muhammad Yasir Qurashi, Healthcare Data Analyst at Buch International Hospital" width="100%"></p>
 
-### 📊 Data Analyst | R & SQL | Excel & Power BI | Google Data Analytics professional Certificate (Coursera)
+<p align="center">
+<a href="https://www.linkedin.com/in/muhammad-yasir-qurashi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:qureshiyasir335@gmail.com"><img src="https://img.shields.io/badge/Email-123324?style=for-the-badge&logo=gmail&logoColor=3ee08f" alt="Email"></a>
+</p>
 
-I'm a data analyst passionate about turning raw data into clear, actionable insights. 
-With hands-on experience in statistical analysis, data visualization, and business intelligence, 
-I help organizations make smarter, data-driven decisions.
+### About
 
-- 🎯 Currently applying analytical skills to **real-world business problems**
-- 📜 **Google Data Analytics Professional Certificate** — Certified
-- 🏫 BS @ BZU Multan (CGPA: 3.76) — May 2026
-- 🧑‍🏫 Trained **1000+ researchers & MPhil/PhD scholars** in Microsoft Excel, R, and SPSS
-- 🌍 Based in Multan, Pakistan | Open to Opportunities
+I am a healthcare data analyst at **Buch International Hospital** (Research & Development, Multan). I design the analysis behind hospital research studies, from clean data to a result the clinician can report. I also teach R, SPSS and Excel to researchers through **BioSkillz**, and have trained **2,000+ learners**.
 
----
+<p align="center"><img src="assets/idcard.svg" alt="Staff card with key numbers" width="100%"></p>
 
-## 🛠️ Tech Stack
+### Tools I use
 
-### 📈 Data Analysis & Statistics
-![R](https://img.shields.io/badge/R-Advanced-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-working-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SPSS](https://img.shields.io/badge/IBM%20SPSS-Statistical%20Analysis-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+<p align="center"><img src="assets/tools.svg" alt="R, SPSS, SQL, Excel, Power BI, Python fundamentals" width="100%"></p>
 
-### 📊 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Powerbi-working%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/LookerStudio-working%20-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-Visualization-276DC3?style=for-the-badge&logo=r&logoColor=white)
+### Case files
 
-### 🧰 Tools & Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+| Project | Problem | Tools | Link |
+|---|---|---|---|
+| **Healthcare Analytics Dashboard** | Managers need readmission risk, cost and recovery by department, not raw tables | Excel, Pivot Tables | [Open](https://github.com/YasirQurashi/seven-months-healthcare-analytics-dashboard) |
+| **Global Workforce Trends** | A layoffs dataset with duplicates and gaps could not be trusted | SQL, MySQL | [Open](https://github.com/YasirQurashi/world-layoffs-sql-analysis) |
+| **Statistical Analysis Pipeline** | Analysis that is not written down cannot be repeated | R, tidyverse, ggplot2 | [Open](https://github.com/YasirQurashi/r_for_statistical_analysis) |
+| **Mobile Store Sales Dashboard** | One year of sales across four cities and five brands, in one view | Excel, Pivot Tables | [Open](https://github.com/YasirQurashi/mobile-store-sales-dashboard) |
 
----
+### In the hospital
 
-## 🚀 Featured Projects
+- Designing the analysis workflow for two doctors' studies: antibiotic susceptibility in blood and urine cultures, and capnography among anaesthesiologists in Punjab. No patient data is shown here.
+- Member of the hospital Institutional Review Board (BIH-IRB).
+- Preparing National Bioethics Committee (NBC) documents and working with the Head of Department on research proposals.
 
-| Project | Tools | Description |
-|--------|-------|-------------|
-| 🏥 [Seven Months HealthCare Analytics Dashboard](https://github.com/YasirQurashi/seven-months-healthcare-analytics-dashboard) | Excel, Pivot Tables | Interactive dashboard analyzing 5,000 hospital visits across 5 departments |
-| 📱 [Store Sales Dashboard](https://github.com/YasirQurashi/Store-sales-dashboard) | Excel, Pivot Tables | Interactive dashboard analyzing $28M sales across 4 cities |
-| 🐧 [Palmer Penguins — Full Analysis](https://github.com/YasirQurashi/10_days_scientific_visualization_mastery/tree/main/penguin_analysis) | R, tidyverse, ggplot2 | Complete 11-step data analysis workflow from raw data to insights |
-| 📉 [R for Statistical Analysis](https://github.com/YasirQurashi/r_for_statistical_analysis) | R, rstatix | Hypothesis testing, regression & descriptive statistics |
-| 📊 [10 Days Scientific Visualization](https://github.com/YasirQurashi/10_days_scientific_visualization_mastery) | R, ggplot2 | Mastering publication-ready scientific charts |
-| [world-layoffs-sql-analysis](https://github.com/YasirQurashi/world-layoffs-sql-analysis) | EDA, SQL, Data Cleaning | Data Cleaning & EDA on World Layoffs 2020-2023 using MySQL |
----
+### Certifications
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YasirQurashi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=YasirQurashi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YasirQurashi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Google Data Analytics Professional Certificate · Data Analysis with R Programming · Diploma in Data Analysis using SPSS · Microsoft Azure AI Fundamentals (AI-900) · Generative AI Application Developer (HEC Pakistan)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YasirQurashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-yasir-qurashi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qureshiyasir335@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YasirQurashi)
-
----
-
-> *"Without data, you're just another person with an opinion." — W. Edwards Deming*
-
-[![](https://komarev.com/ghpvc/?username=YasirQurashi&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YasirQurashi&show_icons=true&theme=dark&bg_color=080d0b&title_color=3ee08f&icon_color=3ee08f&text_color=cfe9dc&border_color=1f3a2d&hide_border=false" alt="GitHub stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasirQurashi&layout=compact&theme=dark&bg_color=080d0b&title_color=3ee08f&text_color=cfe9dc&border_color=1f3a2d" alt="Top languages" height="165">
+</p>
